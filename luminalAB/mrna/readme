@@ -1,1 +1,3 @@
 
+brca_luma_vs_lumb_mrna_tmm_311samples.csv : TMM normalized data count matrix for 311 lumA and lumB samples
+lumAB_id_cancer.txt : sample group file for lumA and lumB samples
