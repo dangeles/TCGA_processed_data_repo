@@ -1,4 +1,5 @@
 # ignore pybiomart sqlite:
+*.csv.tar
 *.pybiomart*
 # Byte-compiled / optimized / DLL files
 __pycache__/
